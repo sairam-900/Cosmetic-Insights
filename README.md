@@ -1,6 +1,6 @@
-# 💄 Cosmetic Insights: Navigating Cosmetics Trends and Consumer Insights with Tableau
+#  Cosmetic Insights: Navigating Cosmetics Trends and Consumer Insights with Tableau
 
-## 📌 Overview
+##  Overview
 An interactive Tableau dashboard that analyzes cosmetic products to uncover insights into brand performance, product categories, pricing trends, customer rankings, and skin-type suitability.
 
 ## 🎯 Objectives
@@ -11,7 +11,7 @@ An interactive Tableau dashboard that analyzes cosmetic products to uncover insi
 - 📈 Visualize price vs. rank
 - 🌿 Analyze skin-type compatibility
 
-## 🛠️ Tools Used
+##  Tools Used
 - 📊 Tableau Public/Desktop
 - 📑 Microsoft Excel
 - 📂 CSV Dataset
